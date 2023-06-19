@@ -1,4 +1,6 @@
 import React from "react";
+import "../components/style.css"
+
 const Card = ({ pokemon, loading,infoPokemon}) => {
    // console.log(pokemon);
     return (
